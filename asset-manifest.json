@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IWWEB/static/css/main.2fa22da8.css",
+    "main.js": "/IWWEB/static/js/main.3859a0e1.js",
+    "static/js/787.fb327819.chunk.js": "/IWWEB/static/js/787.fb327819.chunk.js",
+    "index.html": "/IWWEB/index.html",
+    "main.2fa22da8.css.map": "/IWWEB/static/css/main.2fa22da8.css.map",
+    "main.3859a0e1.js.map": "/IWWEB/static/js/main.3859a0e1.js.map",
+    "787.fb327819.chunk.js.map": "/IWWEB/static/js/787.fb327819.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fa22da8.css",
+    "static/js/main.3859a0e1.js"
+  ]
+}
